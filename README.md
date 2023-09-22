@@ -13,6 +13,6 @@ In the following code, we use q-learning algorithm to solve this game. At the en
 * Wumpus, gold and pits points
 * Hyperparameters (learning rate, discount rate, epsilon)
 
----
+
 ## Q-Learning Process
 ![process](https://cdn-media-1.freecodecamp.org/images/oQPHTmuB6tz7CVy3L05K1NlBmS6L8MUkgOud)
